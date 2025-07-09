@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776452919172",
+    "project_id": "kerigo-21a0b",
+    "storage_bucket": "kerigo-21a0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776452919172:android:caed52dafbea4ccc5bd7d1",
+        "android_client_info": {
+          "package_name": "com.ridy.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR7sHzyUGMWjY4VUf9wTr39RSeD-Uc_uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776452919172:android:e023b80cf039014a5bd7d1",
+        "android_client_info": {
+          "package_name": "com.ridy.rider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR7sHzyUGMWjY4VUf9wTr39RSeD-Uc_uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
